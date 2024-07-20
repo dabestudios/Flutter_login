@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632534890207",
+    "project_id": "dabestudios-login",
+    "storage_bucket": "dabestudios-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632534890207:android:e4179958bc7e8f03cb5b6a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMLUHNbq1pVnQxsJrfOYRdmR6QG200TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
