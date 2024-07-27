@@ -2,6 +2,7 @@
  
 - Go to this page: https://firebase.google.com/docs/flutter/setup?=platform%3Dandroid&platform=android
 - Do this 3 things:
+  
 ![image](https://github.com/user-attachments/assets/51ef8763-288a-4d83-b955-d12f88a06550)
 
 - Open firebase cli 
